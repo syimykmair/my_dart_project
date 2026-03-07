@@ -1,1 +1,1 @@
-enum SuperAbility { criticalDamage, boost, heal, blockRevert, play }
+enum SuperAbility { criticalDamage, boost, heal, blockRevert, play }//

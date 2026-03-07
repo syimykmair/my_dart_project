@@ -2,7 +2,7 @@ import 'game_character.dart';
 import 'super_ability.dart';
 import 'hero.dart';
 import 'rpg_game.dart';
-
+//Syimyk
 class Boss extends GameCharacter {
   SuperAbility? defence;
 
